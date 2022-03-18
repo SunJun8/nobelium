@@ -1,8 +1,8 @@
 const BLOG = {
   title: '自说自话',
-  author: 'Joeko',
+  author: 'Jokeo',
   email: 'a245404779@gmail.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://nobelium-lime-five.vercel.app/',
   description: '记录短暂的人生',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
@@ -17,7 +17,7 @@ const BLOG = {
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
-  socialLink: 'https://twitter.com/craigaryhart',
+  socialLink: 'https://github.com/SunJun8',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
     googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
